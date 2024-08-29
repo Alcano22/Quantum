@@ -13,3 +13,9 @@
 [submodule "Quantum/vendor/ImGui"]
 	path = Quantum/vendor/ImGui
 	url = https://github.com/Alcano22/imgui.git
+[submodule "rttr"]
+	path = rttr
+	url = https://github.com/rttrorg/rttr.git
+[submodule "Quantum/vendor/rttr"]
+	path = Quantum/vendor/rttr
+	url = https://github.com/rttrorg/rttr.git
